@@ -1,6 +1,7 @@
-import Footer from './components/header/footer/Footer'
-import Header from './components/header/header/Header'
-import Nav from './components/header/nav/Nav'
+
+import Footer from './components/footer/Footer'
+import Header from './components/header/Header'
+import Nav from './components/nav/Nav'
 import './globals.css'
 
 export const metadata = {
